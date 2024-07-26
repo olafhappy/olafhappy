@@ -62,13 +62,6 @@
   </td>
   <td>
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
-      height="30"
-      alt="rust"
-    />
-  </td>
-  <td>
-    <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
       height="30"
       alt="typescript logo"
@@ -125,23 +118,9 @@
   </td>
   <td>
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"
-      height="30"
-      alt="apache logo"
-    />
-  </td>
-  <td>
-    <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
       height="30"
       alt="bootstrap logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
-      height="30"
-      alt="dart logo"
     />
   </td>
 </tr>
@@ -202,21 +181,6 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
       height="30"
       alt="nodejs logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-      height="30"
-      alt="npm logo"
-    />
-  </td>
-  
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg"
-      height="30"
-      alt="phpstorm logo"
     />
   </td>
   <td>
