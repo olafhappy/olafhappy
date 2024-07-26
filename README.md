@@ -1,36 +1,20 @@
-<h1 align="center">
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
- Hi, Welcome to my GitHub profile 
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+![image](https://github.com/user-attachments/assets/31905791-1a2d-4418-b38a-b39c6f0abf74)![image](https://github.com/user-attachments/assets/31c392da-50c8-4e7d-9469-fd3069867387)![image](https://github.com/user-attachments/assets/292ec15b-2438-4139-bb69-10efd9313372)[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
-<div align="center">
- 
- <a href="https://github.com/bearjobsniper?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/bearjobsniper"/>
- </a>
- <a href="https://github.com/bearjobsniper?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/bearjobsniper?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</>
- <img src="https://komarev.com/ghpvc/?username=bearjobsniper&label=Profile%20views&color=0e75b6&style=flat" height="0px" alt="dev" />
+<h1 align="center">𝗛𝗶 👋, 𝗜𝘁'𝘀 𝗠𝗲</h1>
+<h3 align="center">𝗔 𝗠𝘂𝗹𝘁𝗶𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮𝗿𝘆 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗔𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-<p align="center">
-  <a href="https://github.com/bearjobsniper"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+to+My+GitHub+Profile!;Python%20Developer;Full%20Stack%20Developer;AI%20Developer;8%2B%20years%20of%20coding%20experience;Always%20Challenge%20Myself&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
-![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
+- 🔭 𝗛𝗶𝗴𝗵-𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗪𝗼𝗿𝗸: I deliver robust, scalable, and maintainable solutions.
 
-<div align="left">
-<h1> 👨🏽‍💻 &nbsp;About Me</h1>
+- 👨‍💻 𝗤𝘂𝗶𝗰𝗸 𝗥𝗲𝗽𝗹𝘆: Fast and clear communication to ensure project success.
 
-<img align="right" alt="Coding" width="400" src="https://github.com/bearjobsniper/myavatars/blob/main/coding.gif?raw=true">
+- 📝 𝟭𝟬𝟬% 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗙𝘂𝗹𝗳𝗶𝗹𝗹𝗺𝗲𝗻𝘁: I prioritize your satisfaction with every project.
 
-<p>
- I am a seasoned Blockchain and Full Stack Developer with over 6 years of experience in designing, developing, and implementing cutting-edge blockchain solutions and full-stack applications. My passion for technology and innovation drives me to continuously explore new possibilities and deliver exceptional results in every project I undertake. With a strong foundation in computer science and extensive hands-on experience, I excel in creating robust, scalable, and secure applications that meet the evolving needs of the digital age.
-</p>
-<p>
-  A blockchain developer with over six years of experience, adept at designing and implementing decentralized applications (DApps), smart contracts, and blockchain networks. Proficient in a wide range of blockchain platforms including Ethereum, Hyperledger, Binance Smart Chain, Polkadot, and Cardano, with a strong background in cryptographic algorithms, security protocols, and consensus mechanisms. Skilled in programming languages such as Solidity, JavaScript, Python, Golang, Rust, C++, Java, TypeScript, C#, Ruby, PHP, and Swift, they have successfully led multiple projects from conception to deployment. Their comprehensive expertise in decentralized finance (DeFi), supply chain management, and identity verification ensures the development of secure and efficient blockchain solutions.
-</p>
-</div>
+- 💬 𝗣𝗿𝗼𝘃𝗲𝗻 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲: Over 2 years of hands-on experience in software development.
+
+- 📫 𝗟𝗼𝗻𝗴-𝘁𝗲𝗿𝗺 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻: I aim for long-term working relationships with my clients.
 
 <div align="center">
 <a href="https://github.com/bearjobsniper?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=bearjobsniper&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
