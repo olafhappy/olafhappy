@@ -6,6 +6,8 @@
 <br>
 <img align="right" alt="Coding" width="400" style="margin-top: 50px" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+
 - 🎯 𝗛𝗶𝗴𝗵-𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗪𝗼𝗿𝗸: I deliver robust, scalable, and maintainable solutions.
 
 - 💬 𝗤𝘂𝗶𝗰𝗸 𝗥𝗲𝗽𝗹𝘆: Fast and clear communication to ensure project success.
