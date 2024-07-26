@@ -62,6 +62,13 @@
   </td>
   <td>
     <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
+      height="30"
+      alt="anaconda logo"
+    />
+  </td>
+  <td>
+    <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
       height="30"
       alt="typescript logo"
@@ -100,13 +107,6 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
       height="30"
       alt="csharp logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
-      height="30"
-      alt="anaconda logo"
     />
   </td>
   <td>
@@ -167,8 +167,6 @@
       alt="mongodb logo"
     />
   </td>
-</tr>
-<tr>
   <td>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
@@ -206,24 +204,11 @@
     />
   </td>
   <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-      height="30"
-      alt="vscode logo"
-    />
-  </td>
   <td>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
       height="30"
       alt="vuejs logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg"
-      height="30"
-      alt="webstorm logo"
     />
   </td>
 </tr>
