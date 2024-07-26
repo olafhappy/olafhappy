@@ -1,14 +1,14 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <h1 align="center">𝗛𝗶 👋, 𝗜𝘁'𝘀 𝗠𝗲</h1>
-<h3 align="center">🔥 𝗔 𝗠𝘂𝗹𝘁𝗶𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮𝗿𝘆 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗔𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 - ⚡ Coding is my passion ⚡</h3>
+<h3 align="center">🔥 𝗔 𝗠𝘂𝗹𝘁𝗶𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮𝗿𝘆 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗔𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 - ⚡ 𝓒𝓸𝓭𝓲𝓷𝓰 𝓲𝓼 𝓶𝔂 𝓟𝓪𝓼𝓼𝓲𝓸𝓷 ⚡</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 - 🎯 𝗛𝗶𝗴𝗵-𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗪𝗼𝗿𝗸: I deliver robust, scalable, and maintainable solutions.
 
 - 💬 𝗤𝘂𝗶𝗰𝗸 𝗥𝗲𝗽𝗹𝘆: Fast and clear communication to ensure project success.
 
-- 🏆 𝟭𝟬𝟬% 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗙𝘂𝗹𝗳𝗶𝗹𝗹𝗺𝗲𝗻𝘁: I prioritize your satisfaction with every project.
+- 🏆 𝟭𝟬𝟬% 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗙𝘂𝗹𝗳𝗶𝗹𝗹𝗺𝗲𝗻𝘁: I prioritize your perfect satisfaction with every project.
 
 - 🏅 𝗣𝗿𝗼𝘃𝗲𝗻 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲: Over 7 years of hands-on experience in software development.
 
@@ -41,9 +41,30 @@
   <tr>
   <td>
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
       height="30"
-      alt="javascript logo"
+      alt="python logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
+      height="30"
+      alt="go logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"
+      height="30"
+      alt="opencv logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
+      height="30"
+      alt="rust"
     />
   </td>
   <td>
@@ -51,6 +72,13 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
       height="30"
       alt="typescript logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      height="30"
+      alt="javascript logo"
     />
   </td>
   <td>
@@ -76,13 +104,6 @@
   </td>
   <td>
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-      height="30"
-      alt="python logo"
-    />
-  </td>
-  <td>
-    <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
       height="30"
       alt="csharp logo"
@@ -93,20 +114,6 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
       height="30"
       alt="anaconda logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
-      height="30"
-      alt="android logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"
-      height="30"
-      alt="androidstudio logo"
     />
   </td>
   <td>
@@ -169,65 +176,9 @@
   </td>
   <td>
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-      height="30"
-      alt="figma logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
-      height="30"
-      alt="flutter logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-      height="30"
-      alt="github logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-      height="30"
-      alt="git logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"
-      height="30"
-      alt="go logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
-      height="30"
-      alt="intellij logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"
-      height="30"
-      alt="kotlin logo"
-    />
-  </td>
-  <td>
-    <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
       height="30"
       alt="materialui logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg"
-      height="30"
-      alt="moodle logo"
     />
   </td>
   <td>
@@ -239,13 +190,6 @@
   </td>
 </tr>
 <tr>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"
-      height="30"
-      alt="msdos logo"
-    />
-  </td>
   <td>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
@@ -267,13 +211,7 @@
       alt="npm logo"
     />
   </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"
-      height="30"
-      alt="opencv logo"
-    />
-  </td>
+  
   <td>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg"
@@ -295,25 +233,12 @@
       alt="redis logo"
     />
   </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"
-      height="30"
-      alt="rust"
-    />
-  </td>
+  
   <td>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
       height="30"
       alt="socketio logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"
-      height="30"
-      alt="swift logo"
     />
   </td>
   <td>
