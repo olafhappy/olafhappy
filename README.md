@@ -4,9 +4,7 @@
 <br>
 <h3 align="center">🔥 𝗔 𝗠𝘂𝗹𝘁𝗶𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮𝗿𝘆 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗔𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 - ⚡ 𝓒𝓸𝓭𝓲𝓷𝓰 𝓲𝓼 𝓶𝔂 𝓟𝓪𝓼𝓼𝓲𝓸𝓷 ⚡</h3>
 <br>
-<img align="right" alt="Coding" width="400" style="margin-top: 50px" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 - 🎯 𝗛𝗶𝗴𝗵-𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗪𝗼𝗿𝗸: I deliver robust, scalable, and maintainable solutions.
 
@@ -21,10 +19,11 @@
 <br>
 <br>
 <div align="center">
-<a href="https://github.com/bearjobsniper?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=bearjobsniper&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/bearjobsniper?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=bearjobsniper&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
 </div>
 
 <!-- activity graph heroku-app start -->
+<br>
 <div align="center">
     <a href="https://github.com/bearjobsniper">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=bearjobsniper&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
@@ -33,8 +32,8 @@
 <!-- activity graph heroku-app end -->
 
 <div align="center">
- <a href="https://github.com/bearjobsniper?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=bearjobsniper&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
- <a href="https://github.com/bearjobsniper?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=bearjobsniper&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+ <a href="https://github.com/bearjobsniper?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=bearjobsniper&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@bearjobsniper's github-readme-stats"/></a>
+ <a href="https://github.com/bearjobsniper?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=bearjobsniper&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@bearjobsniper's github-readme-streak-stats"/></a>
 </div>
 
 <br>
