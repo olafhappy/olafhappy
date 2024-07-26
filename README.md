@@ -10,7 +10,7 @@
 
 - 💬 𝗤𝘂𝗶𝗰𝗸 𝗥𝗲𝗽𝗹𝘆: Fast and clear communication to ensure project success.
 
-- 🏆 𝟭𝟬𝟬% 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗙𝘂𝗹𝗳𝗶𝗹𝗹𝗺𝗲𝗻𝘁: I prioritize your perfect satisfaction with every project.
+- 🏆 𝟭𝟬𝟬% 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗙𝘂𝗹𝗳𝗶𝗹𝗹𝗺𝗲𝗻𝘁: I prioritize your satisfaction with every project.
 
 - 🏅 𝗣𝗿𝗼𝘃𝗲𝗻 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲: Over 7 years of hands-on experience in software development.
 
@@ -212,7 +212,6 @@
       alt="socketio logo"
     />
   </td>
-  <td>
 </tr>
  </table/>
 </div/>
