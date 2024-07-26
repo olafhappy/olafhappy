@@ -1,7 +1,9 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <h1 align="center">𝗛𝗶 👋, 𝗜𝘁'𝘀 𝗠𝗲</h1>
+<br>
 <h3 align="center">🔥 𝗔 𝗠𝘂𝗹𝘁𝗶𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮𝗿𝘆 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗔𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 - ⚡ 𝓒𝓸𝓭𝓲𝓷𝓰 𝓲𝓼 𝓶𝔂 𝓟𝓪𝓼𝓼𝓲𝓸𝓷 ⚡</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 - 🎯 𝗛𝗶𝗴𝗵-𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗪𝗼𝗿𝗸: I deliver robust, scalable, and maintainable solutions.
@@ -14,6 +16,7 @@
 
 - 🤝 𝗟𝗼𝗻𝗴-𝘁𝗲𝗿𝗺 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻: I aim for long-term working relationships with my clients.
 
+<br>
 <div align="center">
 <a href="https://github.com/bearjobsniper?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=bearjobsniper&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
 </div>
@@ -44,6 +47,13 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
       height="30"
       alt="python logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+      height="30"
+      alt="django logo"
     />
   </td>
   <td>
@@ -83,11 +93,41 @@
   </td>
   <td>
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
       height="30"
-      alt="react logo"
+      alt="nodejs logo"
     />
   </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+      height="30"
+      alt="mongodb logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+      height="30"
+      alt="mysql logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+      height="30"
+      alt="redis logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+      height="30"
+      alt="csharp logo"
+    />
+  </td>
+</tr>
+<tr>
   <td>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
@@ -104,9 +144,23 @@
   </td>
   <td>
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
       height="30"
-      alt="csharp logo"
+      alt="bootstrap logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+      height="30"
+      alt="react logo"
+    />
+  </td>
+  <td>
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+      height="30"
+      alt="vuejs logo"
     />
   </td>
   <td>
@@ -114,22 +168,6 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
       height="30"
       alt="angularjs logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-      height="30"
-      alt="bootstrap logo"
-    />
-  </td>
-</tr>
-<tr>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
-      height="30"
-      alt="django logo"
     />
   </td>
   <td>
@@ -162,40 +200,11 @@
   </td>
   <td>
     <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-      height="30"
-      alt="mongodb logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-      height="30"
-      alt="mysql logo"
-    />
-  </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-      height="30"
-      alt="nodejs logo"
-    />
-  </td>
-  <td>
-    <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
       height="30"
       alt="redux logo"
     />
   </td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-      height="30"
-      alt="redis logo"
-    />
-  </td>
-  
   <td>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
@@ -204,13 +213,6 @@
     />
   </td>
   <td>
-  <td>
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-      height="30"
-      alt="vuejs logo"
-    />
-  </td>
 </tr>
  </table/>
 </div/>
