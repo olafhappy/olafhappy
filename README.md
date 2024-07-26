@@ -17,6 +17,7 @@
 - 🤝 𝗟𝗼𝗻𝗴-𝘁𝗲𝗿𝗺 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻: I aim for long-term working relationships with my clients.
 
 <br>
+<br>
 <div align="center">
 <a href="https://github.com/bearjobsniper?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=bearjobsniper&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
 </div>
@@ -34,6 +35,7 @@
  <a href="https://github.com/bearjobsniper?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=bearjobsniper&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 </div>
 
+<br>
 <h3 align="center">
  <img src="https://github.com/bearjobsniper/myavatars/blob/main/code.gif" height="20"/> 
  𝗧𝗲𝗰𝗵 & 𝗧𝗼𝗼𝗹𝘀
