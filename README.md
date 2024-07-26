@@ -127,6 +127,13 @@
 <tr>
   <td>
     <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/pytorch-original.svg"
+      height="30"
+      alt="html5 logo"
+    />
+  </td>
+  <td>
+    <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
       height="30"
       alt="django logo"
