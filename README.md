@@ -1,20 +1,18 @@
-![image](https://github.com/user-attachments/assets/31905791-1a2d-4418-b38a-b39c6f0abf74)![image](https://github.com/user-attachments/assets/31c392da-50c8-4e7d-9469-fd3069867387)![image](https://github.com/user-attachments/assets/292ec15b-2438-4139-bb69-10efd9313372)[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <h1 align="center">𝗛𝗶 👋, 𝗜𝘁'𝘀 𝗠𝗲</h1>
-<h3 align="center">𝗔 𝗠𝘂𝗹𝘁𝗶𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮𝗿𝘆 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗔𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h3>
+<h3 align="center">🔥 𝗔 𝗠𝘂𝗹𝘁𝗶𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮𝗿𝘆 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗔𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 - ⚡ Coding is my passion ⚡</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+- 🎯 𝗛𝗶𝗴𝗵-𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗪𝗼𝗿𝗸: I deliver robust, scalable, and maintainable solutions.
 
-- 🔭 𝗛𝗶𝗴𝗵-𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗪𝗼𝗿𝗸: I deliver robust, scalable, and maintainable solutions.
+- 💬 𝗤𝘂𝗶𝗰𝗸 𝗥𝗲𝗽𝗹𝘆: Fast and clear communication to ensure project success.
 
-- 👨‍💻 𝗤𝘂𝗶𝗰𝗸 𝗥𝗲𝗽𝗹𝘆: Fast and clear communication to ensure project success.
+- 🏆 𝟭𝟬𝟬% 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗙𝘂𝗹𝗳𝗶𝗹𝗹𝗺𝗲𝗻𝘁: I prioritize your satisfaction with every project.
 
-- 📝 𝟭𝟬𝟬% 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗙𝘂𝗹𝗳𝗶𝗹𝗹𝗺𝗲𝗻𝘁: I prioritize your satisfaction with every project.
+- 🏅 𝗣𝗿𝗼𝘃𝗲𝗻 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲: Over 7 years of hands-on experience in software development.
 
-- 💬 𝗣𝗿𝗼𝘃𝗲𝗻 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲: Over 2 years of hands-on experience in software development.
-
-- 📫 𝗟𝗼𝗻𝗴-𝘁𝗲𝗿𝗺 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻: I aim for long-term working relationships with my clients.
+- 🤝 𝗟𝗼𝗻𝗴-𝘁𝗲𝗿𝗺 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻: I aim for long-term working relationships with my clients.
 
 <div align="center">
 <a href="https://github.com/bearjobsniper?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=bearjobsniper&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@Goblin's trophy stats"/></a>
@@ -33,12 +31,9 @@
  <a href="https://github.com/bearjobsniper?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=bearjobsniper&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 </div>
 
-<div align="center">
-  <img src="https://github.com/bearjobsniper/myavatars/blob/main/divider2.png" alt="divider"/>
-</div> 
 <h3 align="center">
  <img src="https://github.com/bearjobsniper/myavatars/blob/main/code.gif" height="20"/> 
- Tech & Tools
+ 𝗧𝗲𝗰𝗵 & 𝗧𝗼𝗼𝗹𝘀
  <img src="https://github.com/bearjobsniper/myavatars/blob/main/code.gif" height="20"/>
 </h3>
 <div align="center" style="witdh:100%"> 
