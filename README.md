@@ -20,28 +20,28 @@
 <br>
 <br>
 <div align="center">
-<a href="https://github.com/bearjobsniper?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=bearjobsniper&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
+<a href="https://github.com/intellineuralninja?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=intellineuralninja&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@intellineuralninja's trophy stats"/></a>
 </div>
 
 <!-- activity graph heroku-app start -->
 <br>
 <div align="center">
-    <a href="https://github.com/bearjobsniper">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=bearjobsniper&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
+    <a href="https://github.com/intellineuralninja">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=intellineuralninja&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="96%" alt="activity graph">
     </a>
 </div>
 <!-- activity graph heroku-app end -->
 
 <div align="center">
- <a href="https://github.com/bearjobsniper?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=bearjobsniper&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@bearjobsniper's github-readme-stats"/></a>
- <a href="https://github.com/bearjobsniper?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=bearjobsniper&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@bearjobsniper's github-readme-streak-stats"/></a>
+ <a href="https://github.com/intellineuralninja?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=intellineuralninja&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@intellineuralninja's github-readme-stats"/></a>
+ <a href="https://github.com/intellineuralninja?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=intellineuralninja&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@intellineuralninja's github-readme-streak-stats"/></a>
 </div>
 
 <br>
 <h3 align="center">
- <img src="https://github.com/bearjobsniper/myavatars/blob/main/code.gif" height="20"/> 
+ <img src="https://github.com/intellineuralninja/myavatars/blob/main/code.gif" height="20"/> 
  𝗧𝗲𝗰𝗵 & 𝗧𝗼𝗼𝗹𝘀
- <img src="https://github.com/bearjobsniper/myavatars/blob/main/code.gif" height="20"/>
+ <img src="https://github.com/intellineuralninja/myavatars/blob/main/code.gif" height="20"/>
 </h3>
 <div align="center" style="witdh:100%"> 
  <table>
