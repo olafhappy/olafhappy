@@ -1,11 +1,11 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+<!--[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]() -->
 
 <h1 align="center">𝗛𝗶 👋, 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐆𝐢𝐭𝐡𝐮𝐛</h1>
 <br>
 <h3 align="center">🔥 𝗔 𝗠𝘂𝗹𝘁𝗶𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗮𝗿𝘆 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗔𝗜 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 - ⚡ 𝓒𝓸𝓭𝓲𝓷𝓰 𝓲𝓼 𝓶𝔂 𝓟𝓪𝓼𝓼𝓲𝓸𝓷 ⚡</h3>
 <br>
 
-<!--<img align="right" alt="Coding" style="display: none" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>-->
+<img align="right" alt="Coding" style="display: none" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 - 🎯 𝗛𝗶𝗴𝗵-𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗪𝗼𝗿𝗸: I deliver robust, scalable, and maintainable solutions.
 
