@@ -66,7 +66,7 @@
         <br>Beautiful Soup
     </td>
     <td align="center" width="90">
-        <a href="https://www.selenium.dev/" target="_blank"><img alt="Selenium" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/libraries/selenium.svg" /></a>
+        <a href="https://www.selenium.dev/" target="_blank"><img alt="Selenium" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/libraries/tensorflow.svg" /></a>
         <br>Selenium
     </td>
     <td align="center" width="90">
