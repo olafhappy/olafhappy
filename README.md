@@ -1,224 +1,115 @@
-<a href="#"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
+<div align="center">
+<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/3.jpg" align="center" height="300" width="100%" />
+</div>  
+  
 
-<div style="display: flex; align-items: center">
-  <h1> 
-    About Me
-    <a href="#--about-me--">
-      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
-    </a>
-  </h1>
-</div>
+### <div align="center">🔥 𝐀 𝐌𝐮𝐥𝐭𝐢𝐝𝐢𝐬𝐜𝐢𝐩𝐥𝐢𝐧𝐚𝐫𝐲 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 - ⚡ 𝓒𝓸𝓭𝓲𝓷𝓰 𝓲𝓼 𝓶𝔂 𝓟𝓪𝓼𝓼𝓲𝓸𝓷 ⚡</div>  
+  
 
-<a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/others/Summary.svg" /></a>
+I'm a Senior AI Engineer with over 7 years of experience in developing intelligent solutions. My expertise includes AI/ML, computer vision, and NLP, where I focus on transforming complex challenges into user-friendly applications. I'm particularly passionate about large language models and leveraging LangChain for innovative projects.  
+  
 
-<a href="#--about-me--"><img align="center" src="https://github-widgetbox.vercel.app/api/profile?username=goldsunshines&data=followers,repositories,stars,commits&theme=radical&title_color=000000"></a>
+<br/>  
 
-<a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
-<br/><br/>
+<table><tr><td valign="top" width="50%">
 
-<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
+- 🎯 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐖𝐨𝐫𝐤: I deliver robust, scalable, and maintainable solutions.  
+  
 
-### Languages
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-        <a href="https://www.python.org/" target="_blank"><img alt="Python" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
-        <br>Python
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.w3schools.com/js/" target="_blank"><img alt="JavaScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
-        <br>Javascript
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/typescript.svg" /></a>
-        <br>Typescript
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.php.net/" target="_blank"><img alt="PHP" width="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/php.svg" /></a>
-        <br>Php
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.java.com/" target="_blank"><img alt="Java" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" /></a>
-        <br>Java
-    </td>
-    <td align="center" width="90">
-        <a href="https://cplusplus.com/" target="_blank"><img alt="C++" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c++.svg" /></a>
-        <br>C++
-    </td>
-    <td align="center" width="90">
-        <a href="https://rubyonrails.org/" target="_blank"><img alt="Ruby on Rails" width="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/languages/ruby%20on%20rails.svg" /></a>
-        <br>Ruby on Rails
-    </td>
-    <td align="center" width="90">
-    </td>
-  </tr>
-</table>
+- 💬 𝐐𝐮𝐢𝐜𝐤 𝐑𝐞𝐩𝐥𝐲: Fast and clear communication to ensure project success.  
+  
 
-### Libraries
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-        <a href="https://requests.readthedocs.io/" target="_blank"><img alt="Requests" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/libraries/requests.svg" /></a>
-        <br>Requests
-    </td>
-    <td align="center" width="90">
-        <a href="https://beautiful-soup-4.readthedocs.io/" target="_blank"><img alt="Beautiful Soup" width="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/libraries/beautiful-soup.svg" /></a>
-        <br>Beautiful Soup
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.selenium.dev/" target="_blank"><img alt="Selenium" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/libraries/tensorflow.svg" /></a>
-        <br>Selenium
-    </td>
-    <td align="center" width="90">
-        <a href="https://playwright.dev/" target="_blank"><img alt="Playwright" width="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/libraries/playwright.svg" /></a>
-        <br>Playwright
-    </td>
-    <td align="center" width="90">
-      <a href="https://react.dev/" target="_blank"><img alt="React" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <a href="https://jquery.com/" target="_blank"><img alt="jQuery" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/jquery.svg" /></a>
-      <br>jQuery
-    </td>
-    <td align="center" width="90">
-        <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" width="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/node.js.gif" /></a>
-        <br>Node.js
-    </td>
-    <td align="center" width="90">
-        <a href="https://threejs.org/" target="_blank"><img alt="Three.js" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/three.js.svg" /></a>
-        <br>Three.js
-    </td>
-  </tr>
-</table>
+- 💯 𝟏𝟎𝟎% 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐅𝐮𝐥𝐟𝐢𝐥𝐥𝐦𝐞𝐧𝐭: I prioritize your satisfaction with every project.  
+  
 
-### Frameworks
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-        <a href="https://scrapy.org/" target="_blank"><img alt="Scrapy" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/frameworks/scrapy.svg" /></a>
-        <br>Scrapy
-    </td>
-    <td align="center" width="90">
-        <a href="https://nextjs.org/" target="_blank"><img alt="Next.js" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/nextjs.svg" /></a>
-        <br>Next.js
-    </td>
-    <td align="center" width="90">
-        <a href="https://angular.dev/" target="_blank"><img alt="Angular" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/angular.gif" /></a>
-        <br>Angular
-    </td>
-    <td align="center" width="90">
-        <a href="https://vuejs.org/" target="_blank"><img alt="Vue" width="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/vue.gif" /></a>
-        <br>Vue
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.djangoproject.com/" target="_blank"><img alt="Django" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/django.svg" /></a>
-        <br>Django
-    </td>
-    <td align="center" width="90">
-        <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
-        <br>Tailwind CSS
-    </td>
-    <td align="center" width="90">
-        <a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/bootstrap.gif" /></a>
-        <br>Bootstrap
-    </td>
-    <td align="center" width="90">
-    </td>
-  </tr>
-</table>
+- 🏅 𝐏𝐫𝐨𝐯𝐞𝐧 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞: Over 7+ years of hands-on experience in AI development.  
+  
 
-### Database
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-        <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mongoDB.gif" /></a>
-        <br>MongoDB
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/postgres.svg" /></a>
-        <br>Postgres SQL
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
-        <br>MySQL
-    </td>
-    <td align="center" width="90">
-    </td>
-    <td align="center" width="90">
-    </td>
-    <td align="center" width="90">
-    </td>
-    <td align="center" width="90">
-    </td>
-    <td align="center" width="90">
-    </td>
-  </tr>
-</table>
+- 🤝 𝐋𝐨𝐧𝐠 𝐓𝐞𝐫𝐦 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧: I aim for long-term working relationships with my clients.  
 
-### Tools
-<table align="center">
-  <tr>
-    <td align="center" width="90">
-        <a href="https://apify.com/" target="_blank"><img alt="Apify" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/tools/apify.svg" /></a>
-        <br>Apify
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.octoparse.com/" target="_blank"><img alt="Octoparse" width="45" height="45" src="https://raw.githubusercontent.com/BeautifulMoon211/BeautifulMoon211/auxiliary/tools/octoparse.svg" /></a>
-        <br>Octoparse
-    </td>
-    <td align="center" width="90">
-        <a href="https://github.com/" target="_blank"><img alt="Git" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.gif" /></a>
-        <br>GitHub
-    </td>
-    <td align="center" width="90">
-        <a href="https://aws.amazon.com/" target="_blank"><img alt="AWS" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/aws.svg" /></a>
-        <br>AWS
-    </td>
-    <td align="center" width="90">
-        <a href="https://kubernetes.io/" target="_blank"><img alt="Docker" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/docker.svg" /></a>
-        <br>Docker
-    </td>
-    <td align="center" width="90">
-        <a href="https://www.docker.com/" target="_blank"><img alt="Kubenetes" width="45" height="45" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/kubernetes.svg" /></a>
-        <br>Kubenetes
-    </td>
-    <td align="center" width="90">
-    </td>
-    <td align="center" width="90">
-    </td>
-  </tr>
-</table>
 
-<a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
-<br/><br/>
+</td><td valign="top" width="50%">
 
-<div style="display: flex; align-items: center">
-  <h1> 
-    My GitHub Stats 
-    <a href="#-my-github-stats--">
-      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
-    </a>
-  </h1>
-</div>
+<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/4.jpg" align="left" height="310" width="100%" />  
 
-<table align="center">
-  <tr>
-    <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=goldsunshines" alt="goldsunshines" /></a>
-    </td>
-    <td align="center" width="60%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goldsunshines&theme=transparent" alt="goldsunshines" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="40%">
-        <a href="#-my-github-stats--" target="_blank"><img alt="goldsunshines" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=goldsunshines&theme=transparent" /></a>
-    </td>
-    <td align="center" width="55%">
-        <a href="#-my-github-stats--"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=goldsunshines&theme=transparent&border_radius=9.4&border=5745EB&stroke=3214EB&fire=EB5454" alt="goldsunshines" /></a>
-    </td>
-  </tr>
-</table>
 
-<a href="#"><img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
+</td></tr></table>  
+
+<br/>  
+
+
+## My Skill Set  
+
+
+### Programing Languages  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+</div>  
+
+
+
+### Full Stack  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+</div>  
+
+
+
+### AI / ML  
+<div align="center">  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
+<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
+</div>  
+
+
+
+### Database  
+<div align="center">  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+</div>  
+
+
+
+### Others  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=intellineuralninja&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=intellineuralninja&&style=flat-square" align="right" />
+</div>  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
