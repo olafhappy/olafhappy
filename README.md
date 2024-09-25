@@ -239,7 +239,7 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
 
 <br/>
 
-<h1><img src = https://github.com/intellineuralninja/intellineuralninja/blob/main/charts.gif" width = 35px height = 35px> 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐞</h1>
+<h1><img src = "https://github.com/intellineuralninja/intellineuralninja/blob/main/charts.gif" width = 35px height = 35px> 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐞</h1>
 
 <table align="center">
   <tr>
