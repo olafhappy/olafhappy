@@ -262,6 +262,4 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
 <img src="https://komarev.com/ghpvc/?username=intellineuralninja&&style=flat-square" align="right" />
 </div>  
 
-<br/>
-
 <img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://github.com/intellineuralninja/intellineuralninja/blob/main/Finish.svg" />
