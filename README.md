@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/welcome.png" align="center" height="300" width="100%" />
+<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/welcome.jpg" align="center" height="300" width="100%" />
 </div>  
   
 <br/>
