@@ -6,12 +6,12 @@
 ### <div align="center">🔥 𝐀 𝐌𝐮𝐥𝐭𝐢𝐝𝐢𝐬𝐜𝐢𝐩𝐥𝐢𝐧𝐚𝐫𝐲 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 - ⚡ 𝓒𝓸𝓭𝓲𝓷𝓰 𝓲𝓼 𝓶𝔂 𝓟𝓪𝓼𝓼𝓲𝓸𝓷 ⚡</div>  
   
 
-I'm a Senior AI Engineer with over 7 years of experience in developing intelligent solutions. My expertise includes AI/ML, computer vision, and NLP, where I focus on transforming complex challenges into user-friendly applications. I'm particularly passionate about large language models and leveraging LangChain for innovative projects.  
+<p>I'm a Senior AI Engineer with over 7 years of experience in developing intelligent solutions. My expertise includes AI/ML, computer vision, and NLP, where I focus on transforming complex challenges into user-friendly applications. I'm particularly passionate about large language models and leveraging LangChain for innovative projects.  </p>
   
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table style="border: none"><tr><td valign="top" width="50%">
 
 - 🎯 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐖𝐨𝐫𝐤: I deliver robust, scalable, and maintainable solutions.  
   
