@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif">
+<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/colorful_line.gif">
 
 <br/>
 
@@ -23,13 +23,13 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
   
 <br/>  
 
-<img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif">
+<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/colorful_line.gif">
 
 <br/>
 
 <div style="display: flex; align-items: center">
   <h1>
-    <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/star.gif" width = 35px height = 35px>
+    <img src = "https://github.com/intellineuralninja/intellineuralninja/blob/main/star.gif" width = 35px height = 35px>
     𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
   </h1>
 </div>
@@ -59,11 +59,11 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
 
 <br/>  
 
-<img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif">
+<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/colorful_line.gif">
 
 <br/> 
 
-<h1><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px> 𝐌𝐲 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭𝐬</h1>
+<h1><img src = "https://github.com/intellineuralninja/intellineuralninja/blob/main/skill.gif" width = 32px> 𝐌𝐲 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭𝐬</h1>
 
 ### 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬  
 <table align="center">
@@ -233,14 +233,13 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
   </tr>
 </table>
 
-
 <br/>  
 
-<img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif">
+<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/colorful_line.gif">
 
 <br/>
 
-<h1><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px> 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐞</h1>
+<h1><img src = https://github.com/intellineuralninja/intellineuralninja/blob/main/charts.gif" width = 35px height = 35px> 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐞</h1>
 
 <table align="center">
   <tr>
@@ -255,10 +254,14 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
 
 <br/>  
 
-<img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif">
+<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/colorful_line.gif">
 
 <br/>
 
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=intellineuralninja&&style=flat-square" align="right" />
 </div>  
+
+<br/>
+
+<img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://github.com/intellineuralninja/intellineuralninja/blob/main" />
