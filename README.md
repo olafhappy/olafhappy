@@ -5,7 +5,7 @@
 
 <br/>
 
-<h1 align="center"> 𝐇𝐢 👋, 𝐈 𝐚𝐦 𝐚 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐓𝐚𝐥𝐞𝐧𝐭𝐞𝐝 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 </h1>  
+<h1 align="center"> 𝐇𝐢 👋, 𝐈 𝐚𝐦 𝐚 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 </h1>  
 
 <br/>
 
@@ -66,7 +66,7 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
 <h1><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px> 𝐌𝐲 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭𝐬</h1>
 
 ### 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬  
-<table align="stretch">
+<table align="center">
   <tr>
     <td align="center" width="90">
         <a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
@@ -103,10 +103,6 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
     <td align="center" width="90">
         <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
         <br>Typescript
-    </td>
-    <td align="center" width="90">
-    </td>
-    <td align="center" width="90">
     </td>
   </tr>
 </table
