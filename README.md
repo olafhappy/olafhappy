@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/welcome.jpg" align="center" height="300" width="100%" />
+<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/welcome.jpg" align="center" width="100%" />
 </div>  
   
 <br/>
@@ -12,7 +12,7 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
   
 <br/>  
 
-## 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
+## 🕵️‍♂️ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 <table><tr><td valign="top" width="50%">
 
 - 🎯 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐖𝐨𝐫𝐤 : I deliver robust, scalable, and maintainable solutions.  
@@ -40,7 +40,7 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
 <br/>  
 
 
-## 𝐌𝐲 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭 & 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐞
+## 💻 𝐌𝐲 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭 & 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐞
 <table><tr><td valign="top" width="50%">
 
 
