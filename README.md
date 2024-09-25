@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/3.jpg" align="center" height="300" width="100%" />
+<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/welcome.png" align="center" height="300" width="100%" />
 </div>  
   
 <br/>
@@ -32,7 +32,7 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
 
 </td><td valign="top" width="50%">
 
-<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/4.jpg" align="left" style="width: 100%" />  
+<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/ai.gif" align="left" style="width: 100%" />  
 
 
 </td></tr></table>  
