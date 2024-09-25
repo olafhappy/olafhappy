@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/3.jpg" align="center" height="300" width="100%" />
+<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/1.webp" align="center" height="300" width="100%" />
 </div>  
   
 
@@ -11,7 +11,7 @@
 
 <br/>  
 
-<table style="border: none"><tr><td valign="top" width="50%">
+<table style="border: none; overflow: none"><tr><td valign="top" width="50%">
 
 - 🎯 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐖𝐨𝐫𝐤: I deliver robust, scalable, and maintainable solutions.  
   
@@ -25,12 +25,12 @@
 - 🏅 𝐏𝐫𝐨𝐯𝐞𝐧 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞: Over 7+ years of hands-on experience in AI development.  
   
 
-- 🤝 𝐋𝐨𝐧𝐠 𝐓𝐞𝐫𝐦 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧: I aim for long-term working relationships with my clients.  
+- 🤝 𝐋𝐨𝐧𝐠 𝐓𝐞𝐫𝐦 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧: I aim for long-term working relationships with my clients.
 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/4.jpg" align="left" height="310" width="100%" />  
+<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/2.gif" align="left" height="310" width="100%" />  
 
 
 </td></tr></table>  
@@ -42,7 +42,7 @@
 
 
 ### Programing Languages  
-<div align="center">  
+<div align="left">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
@@ -57,7 +57,7 @@
 
 
 ### Full Stack  
-<div align="center">  
+<div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
@@ -69,7 +69,7 @@
 
 
 ### AI / ML  
-<div align="center">  
+<div align="left">  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
@@ -79,7 +79,7 @@
 
 
 ### Database  
-<div align="center">  
+<div align="left">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
@@ -89,7 +89,7 @@
 
 
 ### Others  
-<div align="center">  
+<div align="left">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
