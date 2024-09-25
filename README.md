@@ -2,7 +2,6 @@
   <img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/welcome.jpg" align="stretch" />
 </div>  
 
-
 <br/>
 
 <h1 align="center"> 𝐇𝐢 👋, 𝐈 𝐚𝐦 𝐚 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 </h1>  
@@ -65,6 +64,7 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
 
 <h1><img src = "https://github.com/intellineuralninja/intellineuralninja/blob/main/skill.gif" width = 32px> 𝐌𝐲 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭𝐬</h1>
 
+
 ### 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬  
 <table align="center">
   <tr>
@@ -105,11 +105,9 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
         <br>Typescript
     </td>
   </tr>
-</table
+</table>
 
-<br/>
-
-### 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 
+### 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤
 <table align="center">
   <tr>
     <td align="center" width="90">
@@ -142,8 +140,6 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
   </tr>
 </table>
 
-<br/>
-
 ### 𝐀𝐈 / 𝐌𝐋  
 <table align="center">
   <tr>
@@ -171,9 +167,6 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
   </tr>
 </table>
   
-
-<br/>
-
 ### 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
 <table align="center">
   <tr>
@@ -200,8 +193,6 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
     <td align="center" width="90"></td>
   </tr>
 </table>  
-
-<br/>
 
 ### 𝐎𝐭𝐡𝐞𝐫𝐬  
 <table align="center">
