@@ -10,7 +10,7 @@
 <br/>
 
 <div align="center">
-  <img align="stretch" src="https://github-widgetbox.vercel.app/api/profile?username=intellineuralninja&data=followers,repositories,stars,commits&theme=react&title_color=000000">
+  <img align="stretch" src="https://github-widgetbox.vercel.app/api/profile?username=intellineuralninja&data=followers,repositories,stars,commits&theme=onedark&title_color=000000">
 </div>
 
 <br/>
