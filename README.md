@@ -110,45 +110,129 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
 <br/>
 
 ### 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 
-<div align="left">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-</div>  
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+        <a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+        <br>React
+    </td>
+    <td align="center" width="90">
+        <a href="https://expressjs.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
+        <br>ExpressJS
+    </td>
+    <td align="center" width="90">
+        <a href="https://nodejs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+        <br>Node.js
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+        <br>Tailwind CSS
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>
+        <br>Django
+    </td>
+    <td align="center" width="90">
+        <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
+        <br>Flask
+    </td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+  </tr>
+</table>
 
 <br/>
 
 ### 𝐀𝐈 / 𝐌𝐋  
-<div align="left">  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-</div>  
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+        <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
+        <br>Tensorflow
+    </td>
+    <td align="center" width="90">
+        <a href="https://keras.io/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>
+        <br>Keras
+    </td>
+    <td align="center" width="90">
+        <a href="https://pytorch.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>
+        <br>PyTorch
+    </td>
+    <td align="center" width="90">
+        <a href="https://opencv.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>
+        <br>OpenCV
+    </td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+  </tr>
+</table>
+  
 
 <br/>
 
 ### 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
-<div align="left">  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-</div>  
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+        <br>MySQL
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
+        <br>MongoDB
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+        <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+        <a href="https://redis.io/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
+        <br>Redis
+    </td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+  </tr>
+</table>  
 
 <br/>
 
 ### 𝐎𝐭𝐡𝐞𝐫𝐬  
-<div align="left">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+        <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
+        <br>AWS
+    </td>
+    <td align="center" width="90">
+        <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
+        <br>Azure
+    </td>
+    <td align="center" width="90">
+        <a href="https://www.docker.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+        <br>Docker
+    </td>
+    <td align="center" width="90">
+        <a href="https://github.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+        <br>Github
+    </td>
+    <td align="center" width="90">
+         <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
+         <br>GitLab
+     </td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+    <td align="center" width="90"></td>
+  </tr>
+</table>
+
 
 <br/>  
 
