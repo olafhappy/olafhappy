@@ -1,4 +1,4 @@
-<h1 align="center"> 𝐇𝐢 👋 , 𝐈 𝐚𝐦 𝐏𝐚𝐮𝐥 👍 </h1>  
+<h1 align="center"> 𝐇𝐢 👋  𝐈 𝐚𝐦 𝐏𝐚𝐮𝐥 👍 </h1>  
 
 <br/>
 
@@ -38,7 +38,7 @@
 
 </td><td valign="top" width="50%">
 
-<img src="https://github.com/olafhappy/olafhappy/blob/main/ai.gif" align="left" />  
+<img src="https://github.com/olafhappy/olafhappy/blob/main/S6U6.gif" align="left" />  
 
 </td></tr></table>  
 
