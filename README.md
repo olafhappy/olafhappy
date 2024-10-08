@@ -1,9 +1,3 @@
-<div align="stretch">
-  <img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/welcome.jpg" align="stretch" />
-</div>  
-
-<br/>
-
 <h1 align="center"> 𝐇𝐢 👋, 𝐈 𝐚𝐦 𝐚 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐀𝐈 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 </h1>  
 
 <br/>
