@@ -3,12 +3,12 @@
 <br/>
 
 <div align="center">
-  <img align="stretch" src="https://github-widgetbox.vercel.app/api/profile?username=intellineuralninja&data=followers,repositories,stars,commits&theme=onedark&title_color=000000">
+  <img align="stretch" src="https://github-widgetbox.vercel.app/api/profile?username=olafhappy&data=followers,repositories,stars,commits&theme=onedark&title_color=000000">
 </div>
 
 <br/>
 
-<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/colorful_line.gif">
+<img src="https://github.com/olafhappy/olafhappy/blob/main/colorful_line.gif">
 
 <br/>
 
@@ -16,13 +16,13 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
   
 <br/>  
 
-<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/colorful_line.gif">
+<img src="https://github.com/olafhappy/olafhappy/blob/main/colorful_line.gif">
 
 <br/>
 
 <div style="display: flex; align-items: center">
   <h1>
-    <img src = "https://github.com/intellineuralninja/intellineuralninja/blob/main/star.gif" width = 35px height = 35px>
+    <img src = "https://github.com/olafhappy/olafhappy/blob/main/star.gif" width = 35px height = 35px>
     𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
   </h1>
 </div>
@@ -46,17 +46,17 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
 
 </td><td valign="top" width="50%">
 
-<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/ai.gif" align="left" />  
+<img src="https://github.com/olafhappy/olafhappy/blob/main/ai.gif" align="left" />  
 
 </td></tr></table>  
 
 <br/>  
 
-<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/colorful_line.gif">
+<img src="https://github.com/olafhappy/olafhappy/blob/main/colorful_line.gif">
 
 <br/> 
 
-<h1><img src = "https://github.com/intellineuralninja/intellineuralninja/blob/main/skill.gif" width = 32px> 𝐌𝐲 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭𝐬</h1>
+<h1><img src = "https://github.com/olafhappy/olafhappy/blob/main/skill.gif" width = 32px> 𝐌𝐲 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭𝐬</h1>
 
 
 ### 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬  
@@ -220,31 +220,31 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
 
 <br/>  
 
-<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/colorful_line.gif">
+<img src="https://github.com/olafhappy/olafhappy/blob/main/colorful_line.gif">
 
 <br/>
 
-<h1><img src = "https://github.com/intellineuralninja/intellineuralninja/blob/main/charts.gif" width = 35px height = 35px> 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐞</h1>
+<h1><img src = "https://github.com/olafhappy/olafhappy/blob/main/charts.gif" width = 35px height = 35px> 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐞</h1>
 
 <table align="center">
   <tr>
     <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=intellineuralninja" alt="intellineuralninja" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=olafhappy" alt="olafhappy" /></a>
     </td>
     <td align="center" width="60%">
-        <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=intellineuralninja&theme=transparent&border_radius=9.4&border=5745EB00&stroke=343A40&fire=EB5454" alt="intellineuralninja" />
+        <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=olafhappy&theme=transparent&border_radius=9.4&border=5745EB00&stroke=343A40&fire=EB5454" alt="olafhappy" />
     </td>
   </tr>
 </table>
 
 <br/>  
 
-<img src="https://github.com/intellineuralninja/intellineuralninja/blob/main/colorful_line.gif">
+<img src="https://github.com/olafhappy/olafhappy/blob/main/colorful_line.gif">
 
 <br/>
 
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=intellineuralninja&&style=flat-square" align="right" />
+<img src="https://komarev.com/ghpvc/?username=olafhappy&&style=flat-square" align="right" />
 </div>  
 
-<img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://github.com/intellineuralninja/intellineuralninja/blob/main/Finish.svg" />
+<img align="left" alt="Finish" width="100%" style="padding-right:10px;" src="https://github.com/olafhappy/olafhappy/blob/main/Finish.svg" />
