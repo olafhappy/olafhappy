@@ -8,10 +8,6 @@
 
 <br/>
 
-<img src="https://github.com/olafhappy/olafhappy/blob/main/colorful_line.gif">
-
-<br/>
-
 <div style="display: flex; align-items: center">
   <h1>
     <img src = "https://github.com/olafhappy/olafhappy/blob/main/star.gif" width = 35px height = 35px>
@@ -43,10 +39,6 @@
 </td></tr></table>  
 
 <br/>  
-
-<img src="https://github.com/olafhappy/olafhappy/blob/main/colorful_line.gif">
-
-<br/> 
 
 <h1><img src = "https://github.com/olafhappy/olafhappy/blob/main/skill.gif" width = 32px> 𝐌𝐲 𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭𝐬</h1>
 
@@ -211,10 +203,6 @@
 </table>
 
 <br/>  
-
-<img src="https://github.com/olafhappy/olafhappy/blob/main/colorful_line.gif">
-
-<br/>
 
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=olafhappy&&style=flat-square" align="right" />
