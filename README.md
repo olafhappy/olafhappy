@@ -12,10 +12,6 @@
 
 <br/>
 
-I'm a Senior AI Engineer with over 7 years of experience in developing intelligent solutions.<br/><br/>My expertise includes AI/ML, Computer Vision, and NLP, where I focus on transforming complex challenges into user-friendly applications.<br/><br/>I'm particularly passionate about large language models and leveraging LangChain for innovative projects.
-  
-<br/>  
-
 <img src="https://github.com/olafhappy/olafhappy/blob/main/colorful_line.gif">
 
 <br/>
@@ -223,21 +219,6 @@ I'm a Senior AI Engineer with over 7 years of experience in developing intellige
 <img src="https://github.com/olafhappy/olafhappy/blob/main/colorful_line.gif">
 
 <br/>
-
-<h1><img src = "https://github.com/olafhappy/olafhappy/blob/main/charts.gif" width = 35px height = 35px> 𝐌𝐲 𝐆𝐢𝐭𝐡𝐮𝐛 𝐒𝐭𝐚𝐭𝐞</h1>
-
-<table align="center">
-  <tr>
-    <td align="center" width="40%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=olafhappy" alt="olafhappy" /></a>
-    </td>
-    <td align="center" width="60%">
-        <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=olafhappy&theme=transparent&border_radius=9.4&border=5745EB00&stroke=343A40&fire=EB5454" alt="olafhappy" />
-    </td>
-  </tr>
-</table>
-
-<br/>  
 
 <img src="https://github.com/olafhappy/olafhappy/blob/main/colorful_line.gif">
 
