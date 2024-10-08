@@ -30,7 +30,7 @@
 - 💯 𝟏𝟎𝟎% 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐅𝐮𝐥𝐟𝐢𝐥𝐥𝐦𝐞𝐧𝐭 : I prioritize your satisfaction with every project.  
   
 
-- 🏅 𝐏𝐫𝐨𝐯𝐞𝐧 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 : Over 7+ years of hands-on experience in AI development.  
+- 🏅 𝐏𝐫𝐨𝐯𝐞𝐧 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 : Over 7+ years of hands-on experience in Full Stack and AI development.  
   
 
 - 🤝 𝐋𝐨𝐧𝐠 𝐓𝐞𝐫𝐦 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐨𝐧 : I aim for long-term working relationships with my clients.  
