@@ -12,10 +12,6 @@
 
 <br/>
 
-<img src="https://github.com/olafhappy/olafhappy/blob/main/colorful_line.gif">
-
-<br/>
-
 <div style="display: flex; align-items: center">
   <h1>
     <img src = "https://github.com/olafhappy/olafhappy/blob/main/star.gif" width = 35px height = 35px>
@@ -215,10 +211,6 @@
 </table>
 
 <br/>  
-
-<img src="https://github.com/olafhappy/olafhappy/blob/main/colorful_line.gif">
-
-<br/>
 
 <img src="https://github.com/olafhappy/olafhappy/blob/main/colorful_line.gif">
 
